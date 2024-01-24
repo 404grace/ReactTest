@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap");
+
+.zival {
+  background: blue;
+  padding: 10px;
+}
+
+.zival h2 {
+  color: #fbc531;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Rubik Mono One", monospace;
+}
+
+.zival p {
+}
+
+.zival img {
+  border: 2px red solid;
+  border-radius: 50%;
+}
